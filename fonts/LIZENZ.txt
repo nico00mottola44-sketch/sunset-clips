@@ -1,0 +1,12 @@
+Schriften für die eingebrannten Untertitel
+
+Big Shoulders Display (ExtraBold)
+  Lizenz: SIL Open Font License 1.1 – kommerzielle Nutzung und Weitergabe erlaubt
+  Quelle: https://fonts.google.com/specimen/Big+Shoulders+Display (Datei über fontsource.org)
+
+Outfit (SemiBold, Bold)
+  Lizenz: SIL Open Font License 1.1 – kommerzielle Nutzung und Weitergabe erlaubt
+  Quelle: https://fonts.google.com/specimen/Outfit (Datei über fontsource.org)
+
+Vor dem Verkauf: den vollständigen OFL-Text (https://openfontlicense.org) als OFL.txt hier ablegen.
+Die Schriften dürfen mitgeliefert, aber nicht einzeln verkauft werden.
